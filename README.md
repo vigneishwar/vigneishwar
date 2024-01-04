@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vigneishwar</h1>
-<h3 align="center">A passionate frontend developer from Melbourne, Australia</h3>
+<h3 align="center">A passionate SWE from Melbourne, Australia</h3>
 
-- 🌱 I’m currently learning **Vanilla Js, ReactJs, Kubernetes, Docker**
+- 🌱 I’m currently learning **Golang, Vanilla Js, ReactJs, Kubernetes, Docker**
 
 - 📫 How to reach me **vikki1310@gmail.com**
 
